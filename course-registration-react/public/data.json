@@ -1,0 +1,65 @@
+[
+    {
+      "img": "https://i.ibb.co/Wg33qCD/images.jpg",
+      "course_name": "Introduction to Programming",
+      "course_details": "Learn the fundamentals of programming with this beginner-friendly course.",
+      "credit_hour": 3,
+      "price": 4000
+    },
+    {
+      "img": "https://i.ibb.co/Tbcf24k/download.jpg",
+      "course_name": "Complete Web Development with Jhankar Mahbub",
+      "course_details": "Become a full-stack web developer in this comprehensive bootcamp.",
+      "credit_hour": 12,
+      "price": 10000
+    },
+    {
+      "img": "https://i.ibb.co/7QgqdnY/download-1.jpg",
+      "course_name": "Data Science Fundamentals",
+      "course_details": "Explore the world of data science and analytics with hands-on projects.",
+      "credit_hour": 4,
+      "price": 7000
+    },
+    {
+      "img": "https://i.ibb.co/7QgqdnY/download-1.jpg",
+      "course_name": "Graphic Design Mastery",
+      "course_details": "Master the art of graphic design and unleash your creativity.",
+      "credit_hour": 6,
+      "price": 12000
+    },
+    {
+      "img": "https://i.ibb.co/NSx6HHB/download-3.jpg",
+      "course_name": "Digital Marketing Essentials",
+      "course_details": "Learn the essentials of digital marketing and boost your online presence.",
+      "credit_hour": 5,
+      "price": 8000
+    },
+    {
+      "img": "https://i.ibb.co/Z10d5NZ/images-1.jpg",
+      "course_name": "Photography for Beginners",
+      "course_details": "Start your journey in photography with this beginner's course.",
+      "credit_hour": 2,
+      "price": 3900
+    },
+    {
+      "img": "https://i.ibb.co/VSrJft0/download-4.jpg",
+      "course_name": "Business Management Strategies",
+      "course_details": "Develop effective business management strategies for success.",
+      "credit_hour": 4,
+      "price": 6000
+    },
+    {
+      "img": "https://i.ibb.co/2n6qmW0/download-5.jpg",
+      "course_name": "Artificial Intelligence Applications",
+      "course_details": "Explore AI applications and their impact on various industries.",
+      "credit_hour": 6,
+      "price": 14000
+    },
+    {
+      "img": "https://i.ibb.co/550XxGH/download-6.jpg",
+      "course_name": "Language Learning Adventures",
+      "course_details": "Embark on a language learning adventure and expand your horizons.",
+      "credit_hour": 3,
+      "price": 5000
+    }
+  ]
